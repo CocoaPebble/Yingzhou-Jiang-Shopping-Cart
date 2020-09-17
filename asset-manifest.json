@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yingzhou-Jiang-Shopping-Cart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Yingzhou-Jiang-Shopping-Cart/static/js/main.5e0c5d4c.chunk.js",
+    "main.js.map": "/Yingzhou-Jiang-Shopping-Cart/static/js/main.5e0c5d4c.chunk.js.map",
+    "runtime-main.js": "/Yingzhou-Jiang-Shopping-Cart/static/js/runtime-main.4db0f4a5.js",
+    "runtime-main.js.map": "/Yingzhou-Jiang-Shopping-Cart/static/js/runtime-main.4db0f4a5.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/Yingzhou-Jiang-Shopping-Cart/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.ebe1615d.chunk.js": "/Yingzhou-Jiang-Shopping-Cart/static/js/2.ebe1615d.chunk.js",
+    "static/js/2.ebe1615d.chunk.js.map": "/Yingzhou-Jiang-Shopping-Cart/static/js/2.ebe1615d.chunk.js.map",
+    "index.html": "/Yingzhou-Jiang-Shopping-Cart/index.html",
+    "precache-manifest.59f97c5cd2ef481186dad2b43fd1264b.js": "/Yingzhou-Jiang-Shopping-Cart/precache-manifest.59f97c5cd2ef481186dad2b43fd1264b.js",
+    "service-worker.js": "/Yingzhou-Jiang-Shopping-Cart/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/Yingzhou-Jiang-Shopping-Cart/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Yingzhou-Jiang-Shopping-Cart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ebe1615d.chunk.js.LICENSE.txt": "/Yingzhou-Jiang-Shopping-Cart/static/js/2.ebe1615d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db0f4a5.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.ebe1615d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5e0c5d4c.chunk.js"
+  ]
+}
